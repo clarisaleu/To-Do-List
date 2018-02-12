@@ -1,9 +1,9 @@
-# To-Do-List
+# To-Do List
 
 Super Awesome To-Do List!
 
 <br>
 
-![Scrrenshot](main.jpg)
+![Screenshot](main.JPG)
 
 <hr>
