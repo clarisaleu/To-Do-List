@@ -4,6 +4,6 @@ Super Awesome To-Do List!
 
 <br>
 
-![Screenshot](main.jpg)
+![Scrrenshot](main.jpg)
 
 <hr>
